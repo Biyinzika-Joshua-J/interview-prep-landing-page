@@ -1,0 +1,6 @@
+.times{
+    background: linear-gradient(180deg,#5245df 0,#98508f 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}

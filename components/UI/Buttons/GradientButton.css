@@ -1,0 +1,16 @@
+.grad-btn{
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: .7px;
+    color: #fff;
+    background: linear-gradient(90deg,#6a5ee4 0,#98508f 100%);
+    box-shadow: 0 2px 40px rgba(0,0,0,.25);
+    border-radius: 8px;
+    padding: 17px 32px;
+}
+
+#smaller-grad-btn{
+    font-weight: 300;
+    padding: 3px 10px;
+}

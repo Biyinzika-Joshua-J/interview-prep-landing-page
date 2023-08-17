@@ -1,0 +1,40 @@
+.reserve-container{
+    background-image: url('https://hicounselor.com/assets/frontend/images/images-new-home/programe-section-back.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+
+
+
+
+.reserve-container thead tr th{
+    padding: 1.5rem .3rem;
+    padding-left: 3rem;
+    text-align: left;
+    font-weight:bold;
+}
+
+.reserve-container  tbody tr {
+   background-color: white;
+}
+
+.reserve-container  tbody tr:hover {
+    background-color: rgb(106, 94, 228, 0.1);
+ }
+ 
+
+.reserve-container  tbody tr td{
+    padding: 1.4rem .3rem;
+    padding-left: 3rem;
+    text-align: left;
+}
+
+
+.reserve-container tbody tr:not(:last-child) {
+    border-bottom: black solid 0.5px;
+ }
+
+ 
